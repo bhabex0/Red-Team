@@ -1,8 +1,8 @@
 
-physical red teams use a range of tools like:
+physical red teams use a range of tools like:                     <br>
 
-Lock-picking kits
-Drones 
-Wearable cameras
-RFID cloning devices
-Network sniffers
+Lock-picking kits                                <br>
+Drones                                  <br>
+Wearable cameras                                     <br>
+RFID cloning devices                             <br>
+Network sniffers                                    <br>
